@@ -1,0 +1,6 @@
+Project Title : Sprint 0
+Getting Started : This repository contains the three text files about getting started with git
+, branching etc...
+Author : Rana Ezzat 37-6815
+Acknowledgments : (book Chacon, Scott, and Ben Straub. Pro Git. Apress,
+2014.).
